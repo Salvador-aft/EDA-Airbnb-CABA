@@ -5,4 +5,6 @@ env/
 .DS_Store
 Thumbs.db
 
-data/airbnb_caba_filtered.csv
+data/*.csv
+
+notebooks/figures/*.png
