@@ -16,7 +16,7 @@ This exploratory analysis seeks to answer the following key questions:
 - 💬 ***Is there a relationship between the price of an accommodation and the number of reviews it has?**
 - 📅 ***What is the annual availability of accommodations (how many days per year are they available)?**
 
-## 📊 3. Desarrollo del análisis exploratorio
+## 📊 3. Development of exploratory analysis
 
 Below are the answers to the research questions, accompanied by visualizations generated from the cleaned dataset.
 
