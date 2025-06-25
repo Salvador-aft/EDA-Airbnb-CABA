@@ -25,35 +25,30 @@ The price distribution is skewed to the left, with a majority of properties pric
 
 ![Price distribution](notebooks/figures/distribution_prices.png)
 
-This shows that the most common offer is between $200 and $400 USD, which is the typical range for accommodations in Buenos Aires.
 
 ❓ What type of room is most common?
 There is a clear preference for full accommodations, such as apartments or entire houses.
 
 ![Accommodation Type](notebooks/figures/accommodation_type.png)
 
-The "Entire home/apt" room type dominates the distribution, followed by private rooms. This suggests a market orientation toward tourists who prefer independence and comfort.
 
 ❓ Which neighborhoods are the most expensive?
 The average price per neighborhood was calculated. The results reveal a strong concentration of high prices in traditionally tourist-oriented neighborhoods or those with high purchasing power.
 
 ![Average Price Neighborhood](notebooks/figures/average_price_neighborhood.png)
 
-Among the most expensive are Puerto Madero, Palermo, and Recoleta, all neighborhoods with a strong presence in the short-term rental market.
 
 ❓ Is there a relationship between price and number of reviews?
 The relationship between the number of reviews and the price of the accommodations was analyzed. The resulting graph shows a highly dispersed cloud of points.
 
 ![Price vs Reviews](notebooks/figures/price_vs_reviews.png)
 
-No clear linear relationship is evident, although it can be inferred that cheaper accommodations tend to receive more reviews, perhaps due to a higher booking volume.
 
 ❓ What is the annual availability of the accommodations?
 We explored how many days per year the accommodations are available. A dual pattern was observed: many accommodations are available year-round, while others are available only for a few days.
 
 ![Annual Availability](notebooks/figures/annual_availability.png)
 
-This indicates a combination of hosts dedicated exclusively to rentals and others who offer them for limited periods (for example, during holidays or events).
 
 ✅ Conclusions
 
